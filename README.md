@@ -1,4 +1,4 @@
-# Generator for Anki decks
+# Generator for Anki decks to learn languages using Tatoeaba sentences
 
 ## How to use:
 
