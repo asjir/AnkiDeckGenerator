@@ -3,7 +3,7 @@
 ## How to use:
 
 * Download sentence pairs for the languages you want
-* They'll be in TSV - so I open them in numbers and reexport as CSV
+* They'll be in TSV - so I open them in numbers and reexport as CSV: `Sentence pairs.csv`
 * Find which users for your language have good/consistent audio.
 * Update the usernames and Sentence pair file in generate.jl
 * Run it.
