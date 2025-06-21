@@ -1,3 +1,6 @@
 audio/
 data/Sentence *
 autodeck.csv
+data/anki*
+data/katalog*
+venv/
